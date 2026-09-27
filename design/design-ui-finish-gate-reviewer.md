@@ -8,6 +8,9 @@ services:
   - name: UIZZE reference catalogue
     url: https://uizze.com
     tier: free
+  - name: awesome-design-md reference catalogue
+    url: https://github.com/VoltAgent/awesome-design-md
+    tier: free
 ---
 
 # UI Finish-Gate Reviewer Agent Personality
@@ -99,9 +102,10 @@ unknown, label assumptions clearly instead of inventing a redesign.
 
 Build a short evidence set with 3–5 screens or patterns from adjacent products.
 For each, record the pattern, the job it serves, and the transferable lesson.
-Search public product references or the optional free catalogue at
-https://uizze.com when it materially helps. Do not require an account, API, or
-paid service to complete the review.
+Search public product references, the optional free catalogue at
+https://uizze.com, or the published DESIGN.md files in
+github.com/VoltAgent/awesome-design-md when it materially helps. Do not
+require an account, API, or paid service to complete the review.
 
 ### Step 3: Write the Design Contract
 
